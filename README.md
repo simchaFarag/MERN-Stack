@@ -7,9 +7,7 @@ Each student has:
 - id
 - Name
 - Faculty
-- Grades – An array of objects with:
-o Profession
-o Score
+- Grades – An array of objects with Profession and Score
 
 ### Pages:
 - Students Page – Present a table with ALL students data (including grades)
