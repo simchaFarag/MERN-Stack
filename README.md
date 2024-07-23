@@ -1,4 +1,8 @@
+# MERN Stack
+
 Web Site for managing Students.
+
+## Data:
 Each student has:
 - id
 - Name
@@ -7,11 +11,10 @@ Each student has:
 o Profession
 o Score
 
-The Front End (React based) will have the following "pages":
+### Pages:
 - Students Page – Present a table with ALL students data (including grades)
 - Add Students Page
 - Update Student Page
 - Delete Student Page – with a table of students names as links. Every click on a link will
 delete the student
 
-• After each operation, redirect to the students page
