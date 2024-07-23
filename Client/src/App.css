@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  border: 1px solid black;
+}
+
+.nav-item:hover {
+  cursor: pointer;
+  color: blue;
+}
